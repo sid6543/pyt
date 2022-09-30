@@ -1,0 +1,2 @@
+from playsound import playsound
+playsound ('//Users//Sid//Downloads//imagine-dragons-battle-cry.mp3')
